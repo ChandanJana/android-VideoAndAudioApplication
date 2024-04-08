@@ -1,0 +1,37 @@
+
+
+java:S1874f"9Remove this use of "getDefaultAdapter"; it is deprecated.(øêıøÿÿÿÿ8Ú„—èã1J$5a846e63-c411-4229-929f-8ef5c969f189
+u
+java:S1135 "2Complete the task associated to this TODO comment.(âèì48ã„—èã1J$1f5ccb23-cc3a-4f90-bd8c-67b48473ce52
+|
+java:S1874±"9Remove this use of "startBluetoothSco"; it is deprecated.(œæé8ä„—èã1J$776ec809-0964-4b65-8bbd-2fd970c13d96
+|
+java:S1874Á"8Remove this use of "stopBluetoothSco"; it is deprecated.(ÆÖàÙ8æ„—èã1J$edf3f682-6fe8-410e-b93e-e3bb895cc259
+…
+java:S1854ü"ARemove this useless assignment to local variable "pairedDevices".(‰Èš8ë„—èã1J$52770f33-4da6-4e22-bcba-ef1b4827910f
+v
+java:S1481ü"2Remove this unused "pairedDevices" local variable.(‰Èš8í„—èã1J$22c5225c-23a7-4108-927f-bdada45e2f8a
+‡
+java:S1155§">Use isEmpty() to check whether the collection is empty or not.(²áİ³ùÿÿÿÿ8ò„—èã1J$80cdd28e-0fd7-4b66-be07-540ba59e076a
+
+java:S1874¼"8Remove this use of "isBluetoothScoOn"; it is deprecated.(–ˆ°œûÿÿÿÿ8ó„—èã1J$8e48c1bc-d037-46a0-bcab-61ed7216f136
+›
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(š³ÿÿÿÿÿÿ8€…—èã1J$9330eecb-9f22-4c80-b3b2-85b92a57b5f6
+—
+java:S3252˜"NUse static access with "android.bluetooth.BluetoothProfile" for "EXTRA_STATE".(’Š°¶úÿÿÿÿ8‚…—èã1J$a47c6e38-6a37-42b9-8d52-6367f259ef6e
+
+java:S3252˜"UUse static access with "android.bluetooth.BluetoothProfile" for "STATE_DISCONNECTED".(’Š°¶úÿÿÿÿ8ƒ…—èã1J$26ab2244-3920-4d57-b9fe-7258af047224
+–
+java:S3252™"RUse static access with "android.bluetooth.BluetoothProfile" for "STATE_CONNECTED".(†â¯å8ƒ…—èã1J$4a644b06-fe76-4ad5-ac40-85d86466eb6a
+
+java:S3252œ"UUse static access with "android.bluetooth.BluetoothProfile" for "STATE_DISCONNECTED".(³ıú¶üÿÿÿÿ8„…—èã1J$59ab6590-75a6-4dc0-b216-7ff786f1e41f
+’
+java:S3252¤"NUse static access with "android.bluetooth.BluetoothProfile" for "EXTRA_STATE".(åÖú×8†…—èã1J$866fdcb0-18be-4675-8fda-c23f45cab72d
+l	java:S108«")Either remove or fill this block of code.(å¥‡8ˆ…—èã1J$4db10fe8-59bb-446b-b3d8-d6829dfd0f73
+l	java:S108­")Either remove or fill this block of code.(´í¤8ˆ…—èã1J$3c907436-c99a-46fc-9cd6-25d183251bf3
+o
+java:S1068"'Remove this unused "TAG" private field.(ÓÀŠŒúÿÿÿÿ8Š…—èã1J$1859de75-bc21-431b-b5dd-fe54ab55499a
+u
+java:S1144»",Remove this unused private "isScoOn" method.(Ë®Ëîÿÿÿÿÿ8‹…—èã1J$1644c10d-7a3b-4a17-94e5-85d5fa92b4f2
+{
+java:S1144Â"2Remove this unused private "stateToString" method.(ÙÂ–Øùÿÿÿÿ8‹…—èã1J$c2bc690c-5ded-4d06-8874-1a751daa8bb3

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361332933461",
+    "project_id": "video-and-audio-application",
+    "storage_bucket": "video-and-audio-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361332933461:android:de6ee955ac0f2e29a125dc",
+        "android_client_info": {
+          "package_name": "com.videoandaudioapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuGoOorjFqGmD3CDvAvpuMlF_m8D7a5Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

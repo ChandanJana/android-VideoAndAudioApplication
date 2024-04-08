@@ -1,0 +1,87 @@
+
+‡
+java:S6208ş"CMerge the previous cases into this one using comma-separated label.( Í‚8şÓªå1J$7eb1d84a-2914-4345-afc8-daa8587fb79d
+s
+java:S1066Á"/Merge this if statement with the enclosing one.(ß°ÍË8ºúèã1J$8c51337f-867a-48fb-99be-92277e817cdc
+k
+java:S1604W"(Make this anonymous inner class a lambda(¼æ§8»úèã1J$0a2bbed1-6606-4ee8-b139-ab9ed790d84c
+q
+java:S1604’"(Make this anonymous inner class a lambda(Ê÷èçşÿÿÿÿ8¼úèã1J$fb0f7cf8-878b-4336-b8c8-fa54d97bfed7
+u
+java:S11354"2Complete the task associated to this TODO comment.(Üİ§ã8ÿúèã1J$5b51112f-a687-4763-849b-7c1614121093
+|
+java:S1874L"9Remove this use of "PreferenceManager"; it is deprecated.(Òş£Â8ûèã1J$1d9fa103-0882-4f65-a5a9-de783d7adb00
+†
+java:S1874L"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Òş£Â8‚ûèã1J$c5603305-3cfd-48bd-b069-31c455f93d0c
+~
+java:S1854º":Remove this useless assignment to local variable "result".(¼åœ8‰ûèã1J$ec0493cd-8c29-4961-93b7-a1346e3c07c4
+v
+java:S1135†"2Complete the task associated to this TODO comment.(Š‰—“8Šûèã1J$0410d6fe-0ee4-429e-8661-9d3725673cc9
+|
+java:S1874"8Remove this use of "isSpeakerphoneOn"; it is deprecated.(»‘Ò‘8‹ûèã1J$61a8052d-d36b-49ae-a8e2-4b68335afa0f
+€
+java:S1874"7Remove this use of "hasWiredHeadset"; it is deprecated.(ûŠåçüÿÿÿÿ8‹ûèã1J$5aa15b5e-1588-448f-a5e3-0cae153e8d42
+„
+java:S1854"@Remove this useless assignment to local variable "typeOfChange".(ë¯Îµ8Œûèã1J$c3e8909d-1dd4-4f34-8c77-2b1c04024eda
+‰
+java:S1854¡"@Remove this useless assignment to local variable "typeOfChange".(æÌ”»ÿÿÿÿÿ8Œûèã1J$cdeb22a9-df31-4859-87e8-aa186e7fcb7a
+‰
+java:S1854¤"@Remove this useless assignment to local variable "typeOfChange".(ÖşÇßûÿÿÿÿ8ûèã1J$b4d5805a-41f0-4ef5-ba7a-08f05d6c79b0
+‰
+java:S1854§"@Remove this useless assignment to local variable "typeOfChange".(Ô·‘Úıÿÿÿÿ8ûèã1J$76adc0aa-6d4f-4e6a-8560-baa99e7b5c74
+‰
+java:S1854ª"@Remove this useless assignment to local variable "typeOfChange".(ääŒùüÿÿÿÿ8ûèã1J$3a0ed84d-7ce8-4801-b4ee-e2eb22be1c74
+‰
+java:S1854­"@Remove this useless assignment to local variable "typeOfChange".(‹ºùèùÿÿÿÿ8ûèã1J$d84d5dca-328c-4268-907f-9da3379633e6
+‰
+java:S1854°"@Remove this useless assignment to local variable "typeOfChange".(Öÿ¿ıÿÿÿÿ8ûèã1J$cd7a5dee-1ae8-4984-a5e1-684544841e3d
+‰
+java:S1854³"@Remove this useless assignment to local variable "typeOfChange".(÷òûšüÿÿÿÿ8ûèã1J$31d9792f-ebbe-4290-b02b-86b9e2dd51ac
+‰
+java:S1854›"@Remove this useless assignment to local variable "typeOfChange".(´³‡Àøÿÿÿÿ8ûèã1J$30951db6-6b52-4f1d-8578-70c21df8ccb2
+v
+java:S1135—"2Complete the task associated to this TODO comment.(×ôã8ûèã1J$56e04a00-5131-4818-943b-f60b01c6d97b
+z
+java:S1481›"1Remove this unused "typeOfChange" local variable.(´³‡Àøÿÿÿÿ8ûèã1J$f36e7432-0e20-411f-993f-e0823fdc5d3d
+}
+java:S1874º"9Remove this use of "requestAudioFocus"; it is deprecated.(¼åœ8‘ûèã1J$3e5fe3d8-3d4b-47b2-bb9c-6b446e7115f9
+o
+java:S1481º"+Remove this unused "result" local variable.(¼åœ8‘ûèã1J$404edc83-2e18-4bc3-bc82-e288a5583cef
+‚
+java:S1874é"9Remove this use of "abandonAudioFocus"; it is deprecated.(İ¬ªæûÿÿÿÿ8›ûèã1J$e01d6301-3c5f-462d-a64a-629623d668bd
+{
+java:S1135‰"2Complete the task associated to this TODO comment.(ë®«àúÿÿÿÿ8ûèã1J$6a91a66a-9047-415c-864d-de5b7213ae42
+l	java:S108£")Either remove or fill this block of code.(ëëŒ8 ûèã1J$674847ee-0248-41e5-94a6-3c29838097b0
+
+java:S1874Ë"8Remove this use of "isSpeakerphoneOn"; it is deprecated.(òøîïùÿÿÿÿ8¤ûèã1J$d3a24843-60fc-4818-a27a-ea02287c460e
+}
+java:S1874Ï"9Remove this use of "setSpeakerphoneOn"; it is deprecated.(¶³”8¤ûèã1J$81e58654-fba4-41f5-861e-2c44922a9690
+Œ
+java:S6355ë"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš8æÛªå1J$988fe244-a07a-410a-8649-9faa40f59f86
+~
+java:S1133ì"5Do not forget to remove this deprecated code someday.(¿–ù şÿÿÿÿ8§ûèã1J$e281445d-c88b-4c01-bf30-c7c58cc9a41e
+q
+java:S1123ì"(Add the missing @deprecated Javadoc tag.(¿–ù şÿÿÿÿ8§ûèã1J$39224443-37ed-4dab-b029-f8495093fcd1
+–
+java:S1871ò"MThis branch's code block is the same as the block for the branch on line 368.(îªòúÿÿÿÿ8‘Àšèã1J$7f2af5e9-285f-4cd9-be88-f9b10749cebd
+›
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(†„®Èıÿÿÿÿ8«ûèã1J$8abe080d-f927-4fb3-a14f-cbf93f18567f
+v
+java:S1135û"2Complete the task associated to this TODO comment.(¶µ¹€8¬ûèã1J$dc1e0266-cdec-4ca7-aa63-971c4539ad1f
+{
+java:S1135‚"2Complete the task associated to this TODO comment.(ì€ëçÿÿÿÿÿ8¬ûèã1J$b52e06f9-4ce0-47da-9550-588ac52be602
+	java:S125Í"<This block of commented-out lines of code should be removed.(ñä×”8´ûèã1J$3cbbb00b-5caf-4a77-aed4-79c1ecd373c9
+
+java:S1854‰"8Remove this useless assignment to local variable "name".(¹áûòıÿÿÿÿ8·ûèã1J$cf19d24f-1a80-4415-b2f8-440792bd4b08
+‚
+java:S1854ˆ">Remove this useless assignment to local variable "microphone".(°Â¨Û8¡Àšèã1J$dc5a2a5a-d863-4fa1-8145-a5064901cfd9
+s
+java:S1481ˆ"/Remove this unused "microphone" local variable.(°Â¨Û8£Àšèã1J$c57c515d-a0a5-4c1f-90a2-80642cce384b
+r
+java:S1481‰")Remove this unused "name" local variable.(¹áûòıÿÿÿÿ8¹ûèã1J$5b5850ff-9b11-4af9-9847-7615f50b9d0a
+o
+java:S1068"'Remove this unused "TAG" private field.(Ç™ªŠÿÿÿÿÿ8ºûèã1J$0a63f877-b7fa-4a17-9635-61f884fe1d5e
+x
+java:S1068"5Remove this unused "SPEAKERPHONE_TRUE" private field.(Œ®œÑ8»ûèã1J$6962532d-d42c-43ae-a954-0800ae0a041b
+o
+java:S1068ƒ"+Remove this unused "HAS_MIC" private field.(ÂŞ­ß8»ûèã1J$a6d21c80-35c8-4f4e-8043-945261a06691
